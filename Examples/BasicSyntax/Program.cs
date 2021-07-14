@@ -15,15 +15,8 @@ namespace BasicSyntax
             //string s = Console.ReadLine();
             //Console.WriteLine(s);
 
-            string line = Console.ReadLine();
 
-            string[] lineParts= line.Split(',');
-            for (int i = 0; i < lineParts.Length; i++)
-            {
-                Console.Write(lineParts[i]);
-            }
-
-
+   
 
 
             
