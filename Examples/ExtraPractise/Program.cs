@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ExtraPractise
 {
@@ -7,17 +8,26 @@ namespace ExtraPractise
         static void Main(string[] args)
         {
 
-            // Demo String
 
-            var firstName = "MD.";
-            var lastName = "Raihan";
 
-            var fulllName = string.Format("My name is {0} {1}", firstName, lastName);
+            var evenNums = new[] { 2,3,6,8};
 
-            var names = new string[3] { "John", "Jack", "Mary" };
 
-            var formattedName = string.Join(",", names);
-            Console.WriteLine(formattedName);
+            for (int i = 0; i < evenNums.Length; i++)
+                Console.WriteLine(evenNums[i]); // read values of array elements
+
+            for (int i = 0; i < evenNums.Length; i++)
+                evenNums[i] = evenNums[i] + 10; //increase the value of each element by 10
+
+            for (int i = 0; i < evenNums.Length; i++)
+                Console.WriteLine(evenNums[i]);
+
+       
+
+
+
+
+
         }
     }
 }
