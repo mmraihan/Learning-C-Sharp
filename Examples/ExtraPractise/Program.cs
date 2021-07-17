@@ -8,34 +8,19 @@ namespace ExtraPractise
         static void Main(string[] args)
         {
 
-
-
-            var evenNums = new[] { 5,6,1,4,2,3,6,8};
-
-            foreach (var item in evenNums)
+            int[,] arr2d = new int[3, 2]
             {
-                Console.WriteLine(item);
-            }
+                {1,2 },
+                {3,4 },
+                {5,6 }
+            };
 
-
-            Console.WriteLine("Sorted Array");
-
-
-            Array.Sort(evenNums);
-
-            foreach (var item in evenNums)
-            {
-                Console.WriteLine(item);
-            }
-
-          
-
-
-
-
-
-
-
+            Console.WriteLine(arr2d[0,0]); 
+            Console.WriteLine(arr2d[0,1]); 
+            Console.WriteLine(arr2d[1,0]); 
+            Console.WriteLine(arr2d[1,1]); 
+            Console.WriteLine(arr2d[2,0]); 
+            Console.WriteLine(arr2d[2,1]); 
 
         }
     }
