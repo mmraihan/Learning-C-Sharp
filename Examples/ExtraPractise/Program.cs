@@ -10,19 +10,28 @@ namespace ExtraPractise
 
 
 
-            var evenNums = new[] { 2,3,6,8};
+            var evenNums = new[] { 5,6,1,4,2,3,6,8};
+
+            foreach (var item in evenNums)
+            {
+                Console.WriteLine(item);
+            }
 
 
-            for (int i = 0; i < evenNums.Length; i++)
-                Console.WriteLine(evenNums[i]); // read values of array elements
+            Console.WriteLine("Sorted Array");
 
-            for (int i = 0; i < evenNums.Length; i++)
-                evenNums[i] = evenNums[i] + 10; //increase the value of each element by 10
 
-            for (int i = 0; i < evenNums.Length; i++)
-                Console.WriteLine(evenNums[i]);
+            Array.Sort(evenNums);
 
-       
+            foreach (var item in evenNums)
+            {
+                Console.WriteLine(item);
+            }
+
+          
+
+
+
 
 
 
