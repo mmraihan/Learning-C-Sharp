@@ -8,19 +8,24 @@ namespace ExtraPractise
         static void Main(string[] args)
         {
 
-            int[,] arr2d = new int[3, 2]
+            int[,] array2D = new int[4, 3]
             {
-                {1,2 },
-                {3,4 },
-                {5,6 }
+                {1,2,3 },
+                {3,4,4 },
+                {5,6,3 },
+                {7,8,5 }
             };
 
-            Console.WriteLine(arr2d[0,0]); 
-            Console.WriteLine(arr2d[0,1]); 
-            Console.WriteLine(arr2d[1,0]); 
-            Console.WriteLine(arr2d[1,1]); 
-            Console.WriteLine(arr2d[2,0]); 
-            Console.WriteLine(arr2d[2,1]); 
+            int a = array2D.GetLength(0);
+            int b = array2D.GetLength(1);
+            for (int i = 0; i <a; i++)
+            {
+                for (int j = 0; j < b; j++)
+                {
+
+                    Console.Write(array2D[i,j]);
+                }
+            }
 
         }
     }
