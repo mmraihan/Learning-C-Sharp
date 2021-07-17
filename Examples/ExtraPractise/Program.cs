@@ -6,26 +6,44 @@ namespace ExtraPractise
     class Program
     {
         static void Main(string[] args)
+
         {
+            var studentNames = new[] { "Tanvir", "Mridhul", "Zakaria" };
 
-            int[,] array2D = new int[4, 3]
-            {
-                {1,2,3 },
-                {3,4,4 },
-                {5,6,3 },
-                {7,8,5 }
-            };
+            string[][] jaggedArray = new string[3][];
 
-            int a = array2D.GetLength(0);
-            int b = array2D.GetLength(1);
-            for (int i = 0; i <a; i++)
+            //size of string array
+            jaggedArray[0] = new string[3];
+            jaggedArray[1] = new string[1];
+            jaggedArray[2] = new string[2];
+
+            //Initialize Data
+            jaggedArray[0][0] = "BSc";
+            jaggedArray[0][1] = "MSc";
+            jaggedArray[0][2] = "PHD";
+
+            jaggedArray[1][0] = "Bsc";
+
+            jaggedArray[2][0] = "BSc";
+            jaggedArray[2][1] = "MSc";
+
+            
+            // Accessing Data
+
+            for (int i = 0; i < jaggedArray.Length; i++)
             {
-                for (int j = 0; j < b; j++)
+                string[] innerArray = jaggedArray[i];
+                Console.WriteLine(studentNames[i]);
+                Console.WriteLine("-------------");
+
+                for (int j = 0; j < innerArray.Length; j++)
                 {
-
-                    Console.Write(array2D[i,j]);
+                    Console.WriteLine(innerArray[j]);
                 }
+                Console.WriteLine();
             }
+          
+
 
         }
     }
