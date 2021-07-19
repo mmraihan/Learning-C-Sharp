@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Collections;
+
+using System.Collections.Generic;
 
 namespace List
 {
@@ -7,26 +8,24 @@ namespace List
     {
         static void Main(string[] args)
         {
-            ArrayList arList = new ArrayList()
-                {
-                    1,
-                    null,
-                    "Bill",
-                    300,
-                    " ",
-                    4.5f,
-                    300,
-                };
+            var numbers = new List<int>() { 1, 2, 3, 4 };
+            numbers.Add(1)
+            ;
+            numbers.AddRange(new int[3] { 5, 6, 7 }); // Tips: Ienumarable  add list or array
 
-           // arList.Remove(null); //Removes first occurance of null
-            //arList.RemoveAt(4); //Removes element at index 4
-            arList.RemoveRange(0, 2);//Removes two elements starting from 1st item (0 index)
-            
-            for (int i = 0; i < arList.Count; i++)
+        
+
+
+            for (int i = 0; i < numbers.Count; i++)
             {
-                Console.WriteLine(arList[i]);
+                if (numbers[i]==1)
+                {
+                    numbers.Remove(numbers[i]);
+                }                       
             }
-            
+
+            foreach (var item2 in numbers)
+                Console.WriteLine(item2);
         }
     }
 }
