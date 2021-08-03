@@ -8,24 +8,41 @@ namespace List
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>() { 1, 2, 3, 4 };
-            numbers.Add(1)
-            ;
-            numbers.AddRange(new int[3] { 5, 6, 7 }); // Tips: Ienumarable  add list or array
-
-        
-
-
-            for (int i = 0; i < numbers.Count; i++)
-            {
-                if (numbers[i] == 1)
-                {
-                    numbers.Remove(numbers[i]);
-                }
+            int i = 3;
+            Console.WriteLine(i++); 
             
-            }
-            foreach (var item2 in numbers)
-                Console.WriteLine(item2);
+
+           int b = 3;
+          
+            Console.WriteLine(++b);
+
+            Console.WriteLine(5*2);
+
+            Console.WriteLine(10%4);
+
+
+            int x = 5;
+            x += 2;
+            Console.WriteLine(x);
+
+            x -= 3;
+            Console.WriteLine(x);
+
+            x *= 2;
+            Console.WriteLine(x);
+
+            x /= 5;
+                Console.WriteLine(x);
+            x %= 2;
+            Console.WriteLine(x);
+
+
+            uint t = 0b_00000_11111;
+            uint c= ~t;
+            Console.WriteLine(Convert.ToString(c, toBase:2));
+
+            
+
 
 
         }
