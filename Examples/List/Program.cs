@@ -18,14 +18,16 @@ namespace List
 
             for (int i = 0; i < numbers.Count; i++)
             {
-                if (numbers[i]==1)
+                if (numbers[i] == 1)
                 {
                     numbers.Remove(numbers[i]);
-                }                       
+                }
+            
             }
-
             foreach (var item2 in numbers)
                 Console.WriteLine(item2);
+
+
         }
     }
 }
