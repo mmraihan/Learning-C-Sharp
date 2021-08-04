@@ -8,40 +8,41 @@ namespace List
     {
         static void Main(string[] args)
         {
-            int i = 3;
-            Console.WriteLine(i++); 
-            
+            //var Nums = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-           int b = 3;
-          
-            Console.WriteLine(++b);
+            //for (int i = 0; i < Nums.Length; i++)
+            //{
+            //    if (i % 2 == 0)
 
-            Console.WriteLine(5*2);
+            //        Console.WriteLine(i);
 
-            Console.WriteLine(10%4);
+            //}
 
+            //var i = 0;
+            //while (i <= 10)
+            //{
+            //    if (i % 2 == 0) ;
 
-            int x = 5;
-            x += 2;
-            Console.WriteLine(x);
+            //    Console.WriteLine(i);
+            //    i++;
 
-            x -= 3;
-            Console.WriteLine(x);
+            //}
 
-            x *= 2;
-            Console.WriteLine(x);
+            while (true)
+            {
+                Console.Write("Type your Name: ");
+               var input= Console.ReadLine();
 
-            x /= 5;
-                Console.WriteLine(x);
-            x %= 2;
-            Console.WriteLine(x);
+                if (!String.IsNullOrWhiteSpace(input))
+                {
+                    Console.WriteLine("@Echo: " + input);
+                    continue;
+                }
 
+              
+                break;
+            }
 
-            uint t = 0b_00000_11111;
-            uint c= ~t;
-            Console.WriteLine(Convert.ToString(c, toBase:2));
-
-            
 
 
 
