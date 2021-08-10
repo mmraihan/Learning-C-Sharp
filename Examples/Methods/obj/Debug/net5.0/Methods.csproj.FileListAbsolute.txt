@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
