@@ -2,36 +2,32 @@
 
 namespace Methods
 {
-    public class Calculator
+    public class Program
     {
 
-        int num1 = 10;
-        int num2 = 20;
-        int result;
-
-        void Add()
+        public int FindMax(int num1, int num2)
         {
-            result = num1 + num2;
-            DisplayResult();
-        }
+            int result;
+            if (num1>num2)
+            {
+                result = num1;
+            }
+            else
+            {
+                result = num2;
+            }
 
-        void Subtract()
-        {
-            result = num1 - num2;
-            DisplayResult();
+            return result;
         }
-        void DisplayResult()
-        {
-            Console.WriteLine(result);
-        }
-
+       
 
         static void Main(string[] args)
         {
-            Calculator obj = new Calculator();
-            obj.Add();
-            obj.Subtract();
-        
+
+            Program maxValue = new Program();
+            var result= maxValue.FindMax(10, 20);
+            
+            Console.WriteLine("Max Value: " + result);
 
         }
     }
