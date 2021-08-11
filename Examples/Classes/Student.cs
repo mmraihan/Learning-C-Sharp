@@ -8,15 +8,37 @@ namespace Classes
 {
     class Student
     {
-       public string name;
-       public DateTime dateOfBirth;
-       public double cgpa;
-       public string address;
+        #region Fild Shoulb Be Private and Property Should be Public : MS recommended
 
-      public  double UpdateCgpa( double newCgpa)
+        //public string name;
+        //public DateTime dateOfBirth;
+        private double cgpa;
+        //public string address; /// field
+        #endregion 
+
+        public string Name { get; set; }
+        public DateTime DateOfBirth  { get; set; }
+
+        public string Address { get; set; }
+
+     
+
+        public double Cgpa 
         {
-            cgpa = newCgpa;
-            return cgpa;
+            get
+            {
+                return cgpa;
+            }
+               
+            set
+            {
+                if (value >= 0)
+                {
+                    cgpa = value;
+                }
+
+            }
         }
+        
     }
 }
