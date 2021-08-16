@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlternativeByAI/1.0.0": {
+        "runtime": {
+          "AlternativeByAI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlternativeByAI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

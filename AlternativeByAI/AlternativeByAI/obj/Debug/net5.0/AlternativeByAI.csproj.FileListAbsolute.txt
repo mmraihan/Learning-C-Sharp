@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\ref\AlternativeByAI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\bin\Debug\net5.0\AlternativeByAI.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\ref\AlternativeByAI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\AlternativeByAI\AlternativeByAI\obj\Debug\net5.0\AlternativeByAI.genruntimeconfig.cache
