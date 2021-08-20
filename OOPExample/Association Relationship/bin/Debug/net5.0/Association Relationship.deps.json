@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Association Relationship/1.0.0": {
+        "runtime": {
+          "Association Relationship.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Association Relationship/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
