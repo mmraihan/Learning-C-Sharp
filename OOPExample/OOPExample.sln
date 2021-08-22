@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownCasting", "UpDownCasting\UpDownCasting.csproj", "{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

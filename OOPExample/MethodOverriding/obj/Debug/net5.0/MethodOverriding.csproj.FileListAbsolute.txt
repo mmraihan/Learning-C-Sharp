@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\ref\MethodOverriding.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\bin\Debug\net5.0\MethodOverriding.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\ref\MethodOverriding.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\MethodOverriding\obj\Debug\net5.0\MethodOverriding.genruntimeconfig.cache
