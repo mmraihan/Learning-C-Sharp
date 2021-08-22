@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ass0ciation Relationship 2"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{7F998886-7CA4-40F3-B914-4927F52677EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownCasting", "UpDownCasting\UpDownCasting.csproj", "{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpDownCasting", "UpDownCasting\UpDownCasting.csproj", "{BC99937D-F32B-4C34-BE92-C30C7EDD1B94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_CtorBaseSubclass", "22_CtorBaseSubclass\22_CtorBaseSubclass.csproj", "{3EC1ED2D-C743-4483-AB13-A98B69082DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EFEBCB-7FB9-4ADB-B368-F3E77AC6C3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC1ED2D-C743-4483-AB13-A98B69082DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC1ED2D-C743-4483-AB13-A98B69082DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC1ED2D-C743-4483-AB13-A98B69082DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC1ED2D-C743-4483-AB13-A98B69082DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

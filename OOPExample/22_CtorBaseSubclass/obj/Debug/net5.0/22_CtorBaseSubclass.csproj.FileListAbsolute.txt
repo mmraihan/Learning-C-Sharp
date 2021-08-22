@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\ref\22_CtorBaseSubclass.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\bin\Debug\net5.0\22_CtorBaseSubclass.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\ref\22_CtorBaseSubclass.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\22_CtorBaseSubclass\obj\Debug\net5.0\22_CtorBaseSubclass.genruntimeconfig.cache
