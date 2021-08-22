@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
