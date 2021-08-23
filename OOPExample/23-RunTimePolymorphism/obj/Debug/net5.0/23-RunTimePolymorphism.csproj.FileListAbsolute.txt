@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\ref\23-RunTimePolymorphism.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\bin\Debug\net5.0\23-RunTimePolymorphism.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\ref\23-RunTimePolymorphism.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\23-RunTimePolymorphism\obj\Debug\net5.0\23-RunTimePolymorphism.csproj.AssemblyReference.cache
