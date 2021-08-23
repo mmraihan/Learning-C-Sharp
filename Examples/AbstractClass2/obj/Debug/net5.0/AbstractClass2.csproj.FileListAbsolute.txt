@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\ref\AbstractClass2.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\bin\Debug\net5.0\AbstractClass2.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\ref\AbstractClass2.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\AbstractClass2\obj\Debug\net5.0\AbstractClass2.genruntimeconfig.cache
