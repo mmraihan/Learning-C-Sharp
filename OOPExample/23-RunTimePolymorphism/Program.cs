@@ -30,7 +30,7 @@ namespace _23_RunTimePolymorphism
             foreach (var item in accounts)
             {
                 
-                Console.WriteLine(item.Withdraw(10011));
+                Console.WriteLine(item.Withdraw(10011));    
             }
 
 

@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\ref\24-Abstract.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\bin\Debug\net5.0\24-Abstract.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\ref\24-Abstract.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.genruntimeconfig.cache
