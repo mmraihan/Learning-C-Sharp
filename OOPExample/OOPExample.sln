@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_CtorBaseSubclass", "22_C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23-RunTimePolymorphism", "23-RunTimePolymorphism\23-RunTimePolymorphism.csproj", "{DCD825C9-8C08-435E-93CD-A1C30C7BC0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-Abstract", "24-Abstract\24-Abstract.csproj", "{0A91DE48-22B3-4CF0-81EC-64090A9B34B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24-Abstract", "24-Abstract\24-Abstract.csproj", "{0A91DE48-22B3-4CF0-81EC-64090A9B34B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-Interface", "27-Interface\27-Interface.csproj", "{33D205CD-0581-47AE-8FBD-A545EB36E341}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{0A91DE48-22B3-4CF0-81EC-64090A9B34B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A91DE48-22B3-4CF0-81EC-64090A9B34B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A91DE48-22B3-4CF0-81EC-64090A9B34B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D205CD-0581-47AE-8FBD-A545EB36E341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D205CD-0581-47AE-8FBD-A545EB36E341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D205CD-0581-47AE-8FBD-A545EB36E341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D205CD-0581-47AE-8FBD-A545EB36E341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

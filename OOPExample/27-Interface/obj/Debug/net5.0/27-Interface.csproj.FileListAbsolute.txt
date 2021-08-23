@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\ref\27-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\bin\Debug\net5.0\27-Interface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\ref\27-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface\obj\Debug\net5.0\27-Interface.csproj.AssemblyReference.cache
