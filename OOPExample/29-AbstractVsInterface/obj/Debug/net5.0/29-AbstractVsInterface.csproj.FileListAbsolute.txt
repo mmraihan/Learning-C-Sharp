@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\ref\29-AbstractVsInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\bin\Debug\net5.0\29-AbstractVsInterface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\ref\29-AbstractVsInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.genruntimeconfig.cache
