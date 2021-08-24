@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\ref\30-Explicit-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\bin\Debug\net5.0\30-Explicit-Interface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\ref\30-Explicit-Interface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.genruntimeconfig.cache
