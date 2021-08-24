@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27-Interface", "27-Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-Interface-2", "27-Interface-2\27-Interface-2.csproj", "{9636A43B-A85F-4C5F-B2B5-1F14445AEC58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-MultipleInterface", "28-MultipleInterface\28-MultipleInterface.csproj", "{1E5DFD22-1DAA-4B6A-9A62-8AFCC213B591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9636A43B-A85F-4C5F-B2B5-1F14445AEC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9636A43B-A85F-4C5F-B2B5-1F14445AEC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9636A43B-A85F-4C5F-B2B5-1F14445AEC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5DFD22-1DAA-4B6A-9A62-8AFCC213B591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5DFD22-1DAA-4B6A-9A62-8AFCC213B591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5DFD22-1DAA-4B6A-9A62-8AFCC213B591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5DFD22-1DAA-4B6A-9A62-8AFCC213B591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

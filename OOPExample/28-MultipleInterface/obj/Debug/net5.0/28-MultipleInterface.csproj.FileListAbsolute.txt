@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\ref\28-MultipleInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\bin\Debug\net5.0\28-MultipleInterface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\ref\28-MultipleInterface.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\28-MultipleInterface\obj\Debug\net5.0\28-MultipleInterface.csproj.AssemblyReference.cache
