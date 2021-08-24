@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\ref\31-ObjectInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\bin\Debug\net5.0\31-ObjectInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\ref\31-ObjectInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\31-ObjectInitializer\obj\Debug\net5.0\31-ObjectInitializer.genruntimeconfig.cache
