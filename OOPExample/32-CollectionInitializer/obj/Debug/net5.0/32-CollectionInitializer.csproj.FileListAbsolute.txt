@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\ref\32-CollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\bin\Debug\net5.0\32-CollectionInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\ref\32-CollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.genruntimeconfig.cache
