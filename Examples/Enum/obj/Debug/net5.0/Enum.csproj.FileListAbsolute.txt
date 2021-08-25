@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
