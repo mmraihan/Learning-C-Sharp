@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\ref\46-Generic.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\bin\Debug\net5.0\46-Generic.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\ref\46-Generic.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.genruntimeconfig.cache

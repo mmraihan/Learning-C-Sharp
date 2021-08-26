@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29-AbstractVsInterface", "2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-Explicit-Interface", "30-Explicit-Interface\30-Explicit-Interface.csproj", "{71F6261B-EF95-4189-AC96-4152F607088F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-ObjectInitializer", "31-ObjectInitializer\31-ObjectInitializer.csproj", "{53EDCD9A-5F81-4BE1-AD90-60D8C6BF2E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31-ObjectInitializer", "31-ObjectInitializer\31-ObjectInitializer.csproj", "{53EDCD9A-5F81-4BE1-AD90-60D8C6BF2E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-CollectionInitializer", "32-CollectionInitializer\32-CollectionInitializer.csproj", "{B135E4BA-C630-4385-AD07-E9B9E0101684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32-CollectionInitializer", "32-CollectionInitializer\32-CollectionInitializer.csproj", "{B135E4BA-C630-4385-AD07-E9B9E0101684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46-Generic", "46-Generic\46-Generic.csproj", "{CB30F69F-AD29-4716-B48C-36F623EA37E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{B135E4BA-C630-4385-AD07-E9B9E0101684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B135E4BA-C630-4385-AD07-E9B9E0101684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B135E4BA-C630-4385-AD07-E9B9E0101684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB30F69F-AD29-4716-B48C-36F623EA37E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB30F69F-AD29-4716-B48C-36F623EA37E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB30F69F-AD29-4716-B48C-36F623EA37E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB30F69F-AD29-4716-B48C-36F623EA37E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
