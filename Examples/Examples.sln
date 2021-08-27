@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-11-Structure", "Class
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{A53AC792-6829-433A-9E6C-9C693F3F5AD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-DateTime", "Class-12-DateTime\Class-12-DateTime.csproj", "{0CBA2AE5-C22C-46D9-B41F-FD7B7964952E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-12-DateTime", "Class-12-DateTime\Class-12-DateTime.csproj", "{0CBA2AE5-C22C-46D9-B41F-FD7B7964952E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-StringBuilders", "Class-12-StringBuilders\Class-12-StringBuilders.csproj", "{4CBA52FA-D4F3-409D-A22D-D51B24B3606B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-12-StringBuilders", "Class-12-StringBuilders\Class-12-StringBuilders.csproj", "{4CBA52FA-D4F3-409D-A22D-D51B24B3606B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-ParamiterModifier", "Class-12-ParamiterModifier\Class-12-ParamiterModifier.csproj", "{0C2BA30A-3B8D-4181-B983-4EF342150C11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{4CBA52FA-D4F3-409D-A22D-D51B24B3606B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CBA52FA-D4F3-409D-A22D-D51B24B3606B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CBA52FA-D4F3-409D-A22D-D51B24B3606B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2BA30A-3B8D-4181-B983-4EF342150C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2BA30A-3B8D-4181-B983-4EF342150C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2BA30A-3B8D-4181-B983-4EF342150C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2BA30A-3B8D-4181-B983-4EF342150C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

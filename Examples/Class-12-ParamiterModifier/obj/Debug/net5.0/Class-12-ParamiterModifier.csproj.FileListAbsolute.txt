@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\ref\Class-12-ParamiterModifier.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\bin\Debug\net5.0\Class-12-ParamiterModifier.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\ref\Class-12-ParamiterModifier.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.genruntimeconfig.cache
