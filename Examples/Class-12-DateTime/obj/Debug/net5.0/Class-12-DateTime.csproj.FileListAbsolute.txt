@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\ref\Class-12-DateTime.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\bin\Debug\net5.0\Class-12-DateTime.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\ref\Class-12-DateTime.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.genruntimeconfig.cache
