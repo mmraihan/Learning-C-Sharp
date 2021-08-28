@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extra", "Extra\Extra.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyAssoReltionship", "OneToManyAssoReltionship\OneToManyAssoReltionship.csproj", "{CEC190BF-66DF-4BF7-8C71-4478B6A12D55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyExample2", "OneToManyExample2\OneToManyExample2.csproj", "{971F8ED4-CE2B-48BD-A348-D2438799B7A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{CEC190BF-66DF-4BF7-8C71-4478B6A12D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEC190BF-66DF-4BF7-8C71-4478B6A12D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEC190BF-66DF-4BF7-8C71-4478B6A12D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971F8ED4-CE2B-48BD-A348-D2438799B7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971F8ED4-CE2B-48BD-A348-D2438799B7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971F8ED4-CE2B-48BD-A348-D2438799B7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971F8ED4-CE2B-48BD-A348-D2438799B7A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
