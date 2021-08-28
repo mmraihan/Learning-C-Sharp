@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\ref\OneToManyAssoReltionship.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\bin\Debug\net5.0\OneToManyAssoReltionship.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\ref\OneToManyAssoReltionship.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\OneToManyAssoReltionship\obj\Debug\net5.0\OneToManyAssoReltionship.csproj.AssemblyReference.cache
