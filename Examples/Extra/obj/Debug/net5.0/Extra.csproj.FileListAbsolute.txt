@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\ref\Extra.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\bin\Debug\net5.0\Extra.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\ref\Extra.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Extra\obj\Debug\net5.0\Extra.genruntimeconfig.cache
