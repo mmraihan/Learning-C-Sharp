@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\ref\40-AnonymousCollection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\bin\Debug\net5.0\40-AnonymousCollection.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\ref\40-AnonymousCollection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\40-AnonymousCollection\obj\Debug\net5.0\40-AnonymousCollection.csproj.AssemblyReference.cache
