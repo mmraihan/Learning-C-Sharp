@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ref\ObjectAndCollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\bin\Debug\net5.0\ObjectAndCollectionInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ref\ObjectAndCollectionInitializer.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ObjectAndCollectionInitializer\obj\Debug\net5.0\ObjectAndCollectionInitializer.genruntimeconfig.cache

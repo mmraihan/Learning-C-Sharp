@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
