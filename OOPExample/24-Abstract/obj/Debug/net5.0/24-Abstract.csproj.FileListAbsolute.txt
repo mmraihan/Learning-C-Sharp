@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\ob
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\ref\24-Abstract.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\24-Abstract\obj\Debug\net5.0\24-Abstract.csproj.AssemblyReference.cache
