@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BITM-11-ArrayListAndArray/1.0.0": {
+        "runtime": {
+          "BITM-11-ArrayListAndArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BITM-11-ArrayListAndArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

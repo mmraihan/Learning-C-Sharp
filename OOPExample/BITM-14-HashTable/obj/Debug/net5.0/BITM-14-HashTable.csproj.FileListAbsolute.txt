@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\ref\BITM-14-HashTable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\bin\Debug\net5.0\BITM-14-HashTable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\ref\BITM-14-HashTable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-14-HashTable\obj\Debug\net5.0\BITM-14-HashTable.genruntimeconfig.cache

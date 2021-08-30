@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\ref\BITM-12-List.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\bin\Debug\net5.0\BITM-12-List.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\ref\BITM-12-List.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-List\obj\Debug\net5.0\BITM-12-List.genruntimeconfig.cache
