@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\ref\Class-12-NullableAndAnonymous.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\bin\Debug\net5.0\Class-12-NullableAndAnonymous.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\ref\Class-12-NullableAndAnonymous.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.genruntimeconfig.cache

@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectAndCollectionInitializer", "ObjectAndCollectionInitializer\ObjectAndCollectionInitializer.csproj", "{FD0E6049-D3B4-4184-97B5-75C98BB32273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-OutInRef", "Class-12-OutInRef\Class-12-OutInRef.csproj", "{FE9E1408-EE7D-4DE1-AB42-65A1608F8254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-12-OutInRef", "Class-12-OutInRef\Class-12-OutInRef.csproj", "{FE9E1408-EE7D-4DE1-AB42-65A1608F8254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-Tuple", "Class-12-Tuple\Class-12-Tuple.csproj", "{4AE1B8B4-29A2-4280-A0DE-72A73A7F85DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-12-Tuple", "Class-12-Tuple\Class-12-Tuple.csproj", "{4AE1B8B4-29A2-4280-A0DE-72A73A7F85DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-12-NullableAndAnonymous", "Class-12-NullableAndAnonymous\Class-12-NullableAndAnonymous.csproj", "{453F1540-EE98-4FFB-A2F9-BEDC0E089777}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{4AE1B8B4-29A2-4280-A0DE-72A73A7F85DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE1B8B4-29A2-4280-A0DE-72A73A7F85DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE1B8B4-29A2-4280-A0DE-72A73A7F85DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453F1540-EE98-4FFB-A2F9-BEDC0E089777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453F1540-EE98-4FFB-A2F9-BEDC0E089777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453F1540-EE98-4FFB-A2F9-BEDC0E089777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453F1540-EE98-4FFB-A2F9-BEDC0E089777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
