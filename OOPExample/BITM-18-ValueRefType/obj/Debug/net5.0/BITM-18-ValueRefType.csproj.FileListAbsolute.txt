@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\ref\BITM-18-ValueRefType.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\bin\Debug\net5.0\BITM-18-ValueRefType.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\ref\BITM-18-ValueRefType.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.csproj.AssemblyReference.cache

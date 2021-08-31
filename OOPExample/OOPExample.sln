@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITM-15-Dictionary", "BITM-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITM-18-ClassObject", "BITM-18-ClassObject\BITM-18-ClassObject.csproj", "{30013E0F-F6FE-44B9-A07A-12368344C537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITM-18-ValueRefType", "BITM-18-ValueRefType\BITM-18-ValueRefType.csproj", "{BC68A821-410C-42FB-A5B0-6858CD5A5296}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{30013E0F-F6FE-44B9-A07A-12368344C537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30013E0F-F6FE-44B9-A07A-12368344C537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30013E0F-F6FE-44B9-A07A-12368344C537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC68A821-410C-42FB-A5B0-6858CD5A5296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC68A821-410C-42FB-A5B0-6858CD5A5296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC68A821-410C-42FB-A5B0-6858CD5A5296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC68A821-410C-42FB-A5B0-6858CD5A5296}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
