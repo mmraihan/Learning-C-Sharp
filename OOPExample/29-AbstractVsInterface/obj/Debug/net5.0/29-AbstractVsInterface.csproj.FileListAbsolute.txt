@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsI
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\ref\29-AbstractVsInterface.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\29-AbstractVsInterface\obj\Debug\net5.0\29-AbstractVsInterface.csproj.AssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\0-ExtraPractis
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\0-ExtraPractise\obj\Debug\net5.0\ref\0-ExtraPractise.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\0-ExtraPractise\obj\Debug\net5.0\0-ExtraPractise.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\0-ExtraPractise\obj\Debug\net5.0\0-ExtraPractise.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\0-ExtraPractise\obj\Debug\net5.0\0-ExtraPractise.csproj.AssemblyReference.cache
