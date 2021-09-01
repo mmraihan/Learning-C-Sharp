@@ -43,7 +43,34 @@ namespace ObjectAndCollectionInitializer
                 Console.WriteLine(item.GetFullName());
             }
 
+            Console.WriteLine("----------------------------Todays Code-----------------------");
+
             Person person4 = persons[3];
+
+            
+
+           
+            Person human = new Person();
+            human.FirstName = "Mr";
+            human.LastName = "Tanjib";
+
+          
+           
+
+            Person human2;
+
+
+            human2 = human;
+            human = null;
+
+
+
+            Console.WriteLine(human.GetFullName());
+            Console.WriteLine(human2.GetFullName()); 
+           
+            
+
+
 
 
         }
