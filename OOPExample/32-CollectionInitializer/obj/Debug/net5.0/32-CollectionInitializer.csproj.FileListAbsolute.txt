@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionI
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\ref\32-CollectionInitializer.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\32-CollectionInitializer\obj\Debug\net5.0\32-CollectionInitializer.csproj.AssemblyReference.cache

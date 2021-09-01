@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-11-ArrayL
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-11-ArrayListAndArray\obj\Debug\net5.0\ref\BITM-11-ArrayListAndArray.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-11-ArrayListAndArray\obj\Debug\net5.0\BITM-11-ArrayListAndArray.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-11-ArrayListAndArray\obj\Debug\net5.0\BITM-11-ArrayListAndArray.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-11-ArrayListAndArray\obj\Debug\net5.0\BITM-11-ArrayListAndArray.csproj.AssemblyReference.cache
