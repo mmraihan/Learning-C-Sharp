@@ -41,9 +41,10 @@ namespace Extra
             Student student1 = new Student();
             student1.RegNo = "1342";
             student1.Name = "Raihan";
-            student1.Email = "Examle@gmail.com";
+            student1.Email = "Examle@gmail.com"; 
 
             student1.StudentPresentAddress = address1;
+
 
             //////////////////////////Get
             string sName = student1.Name;
