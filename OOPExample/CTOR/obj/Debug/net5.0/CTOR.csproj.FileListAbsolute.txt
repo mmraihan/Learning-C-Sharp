@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\ref\CTOR.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\bin\Debug\net5.0\CTOR.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\ref\CTOR.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CTOR\obj\Debug\net5.0\CTOR.genruntimeconfig.cache

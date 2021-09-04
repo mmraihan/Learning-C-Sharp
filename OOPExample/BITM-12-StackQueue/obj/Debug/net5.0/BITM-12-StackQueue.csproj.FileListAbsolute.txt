@@ -13,4 +13,3 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQ
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\ref\BITM-12-StackQueue.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-12-StackQueue.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-12-StackQueue.genruntimeconfig.cache
-C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-12-StackQueue.csproj.AssemblyReference.cache

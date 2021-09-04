@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\ref\BITM-StackQueue.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\bin\Debug\net5.0\BITM-StackQueue.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\ref\BITM-StackQueue.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-12-StackQueue\obj\Debug\net5.0\BITM-StackQueue.genruntimeconfig.cache

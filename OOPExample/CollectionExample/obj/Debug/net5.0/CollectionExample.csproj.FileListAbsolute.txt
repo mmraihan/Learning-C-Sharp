@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\ref\CollectionExample.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\bin\Debug\net5.0\CollectionExample.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\ref\CollectionExample.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\CollectionExample\obj\Debug\net5.0\CollectionExample.genruntimeconfig.cache

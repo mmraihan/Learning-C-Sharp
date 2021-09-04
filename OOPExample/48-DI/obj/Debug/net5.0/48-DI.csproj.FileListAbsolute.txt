@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\ref\48-DI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\bin\Debug\net5.0\48-DI.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\ref\48-DI.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\48-DI\obj\Debug\net5.0\48-DI.genruntimeconfig.cache

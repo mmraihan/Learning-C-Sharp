@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPExample", "OOPExample\OOPExample.csproj", "{DB2959B5-8C93-4B1A-8B99-E9FCBDEB25F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Association Relationship", "Association Relationship\Association Relationship.csproj", "{A980ABA8-897C-422B-98DD-53566D737914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-Association Relationship", "Association Relationship\16-Association Relationship.csproj", "{A980ABA8-897C-422B-98DD-53566D737914}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ass0ciation Relationship 2", "Ass0ciation Relationship 2\Ass0ciation Relationship 2.csproj", "{64A435C5-D9FF-41F6-B11F-5FD4124151F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-Ass0ciation Relationship 2", "Ass0ciation Relationship 2\15-Ass0ciation Relationship 2.csproj", "{64A435C5-D9FF-41F6-B11F-5FD4124151F1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{7F998886-7CA4-40F3-B914-4927F52677EF}"
 EndProject
@@ -47,7 +47,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-11-ArrayListAndArray",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-12-List", "BITM-12-List\BITM-12-List.csproj", "{9D5BC972-6F24-4610-821F-5071FD1E9249}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-12-StackQueue", "BITM-12-StackQueue\BITM-12-StackQueue.csproj", "{35BED1AA-7D9F-4DEE-B5A4-6DB06718435A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-StackQueue", "BITM-12-StackQueue\BITM-StackQueue.csproj", "{35BED1AA-7D9F-4DEE-B5A4-6DB06718435A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-14-HashTable", "BITM-14-HashTable\BITM-14-HashTable.csproj", "{6EF74F2B-C96B-47D4-ACCB-5E217EB6FCD6}"
 EndProject
@@ -57,7 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-18-ClassObject", "BITM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-18-ValueRefType", "BITM-18-ValueRefType\BITM-18-ValueRefType.csproj", "{BC68A821-410C-42FB-A5B0-6858CD5A5296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningNE-1-IEnumarabe", "LearningNE-1-IEnumarabe\LearningNE-1-IEnumarabe.csproj", "{BBCFD20D-F2E5-4958-8353-327E3E9B6267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningNE-1-IEnumarabe", "LearningNE-1-IEnumarabe\LearningNE-1-IEnumarabe.csproj", "{BBCFD20D-F2E5-4958-8353-327E3E9B6267}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47-Generic-2", "47-Generic-2\47-Generic-2.csproj", "{00B71AE0-AE04-4EF9-B470-329D989323A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionExample", "CollectionExample\CollectionExample.csproj", "{85F7A27A-29E0-479B-8756-C6C883F7B225}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CTOR", "CTOR\CTOR.csproj", "{8B2E8AA2-1709-4984-A46D-647F0091D02E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{B9BABDCC-1AA0-4E68-93EC-D16AA8B9CE88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48-DI", "48-DI\48-DI.csproj", "{8A8DBC80-8355-4FD4-9A89-A129EB29B32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49-DependencyInjection", "49-DependencyInjection\49-DependencyInjection.csproj", "{E99D8B5C-A8F7-4773-88E0-4B4DE03F4F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +189,30 @@ Global
 		{BBCFD20D-F2E5-4958-8353-327E3E9B6267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBCFD20D-F2E5-4958-8353-327E3E9B6267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBCFD20D-F2E5-4958-8353-327E3E9B6267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B71AE0-AE04-4EF9-B470-329D989323A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B71AE0-AE04-4EF9-B470-329D989323A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B71AE0-AE04-4EF9-B470-329D989323A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B71AE0-AE04-4EF9-B470-329D989323A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F7A27A-29E0-479B-8756-C6C883F7B225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F7A27A-29E0-479B-8756-C6C883F7B225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F7A27A-29E0-479B-8756-C6C883F7B225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F7A27A-29E0-479B-8756-C6C883F7B225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2E8AA2-1709-4984-A46D-647F0091D02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2E8AA2-1709-4984-A46D-647F0091D02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2E8AA2-1709-4984-A46D-647F0091D02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2E8AA2-1709-4984-A46D-647F0091D02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BABDCC-1AA0-4E68-93EC-D16AA8B9CE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BABDCC-1AA0-4E68-93EC-D16AA8B9CE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BABDCC-1AA0-4E68-93EC-D16AA8B9CE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BABDCC-1AA0-4E68-93EC-D16AA8B9CE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8DBC80-8355-4FD4-9A89-A129EB29B32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8DBC80-8355-4FD4-9A89-A129EB29B32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8DBC80-8355-4FD4-9A89-A129EB29B32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8DBC80-8355-4FD4-9A89-A129EB29B32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99D8B5C-A8F7-4773-88E0-4B4DE03F4F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99D8B5C-A8F7-4773-88E0-4B4DE03F4F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99D8B5C-A8F7-4773-88E0-4B4DE03F4F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99D8B5C-A8F7-4773-88E0-4B4DE03F4F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

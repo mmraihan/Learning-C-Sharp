@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\ref\49-DependencyInjection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\bin\Debug\net5.0\49-DependencyInjection.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\ref\49-DependencyInjection.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\49-DependencyInjection\obj\Debug\net5.0\49-DependencyInjection.genruntimeconfig.cache

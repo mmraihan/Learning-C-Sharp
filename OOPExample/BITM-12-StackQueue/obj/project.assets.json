@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\BITM-12-StackQueue\\BITM-12-StackQueue.csproj",
-      "projectName": "BITM-12-StackQueue",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\BITM-12-StackQueue\\BITM-12-StackQueue.csproj",
+      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\BITM-12-StackQueue\\BITM-StackQueue.csproj",
+      "projectName": "BITM-StackQueue",
+      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\BITM-12-StackQueue\\BITM-StackQueue.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\BITM-12-StackQueue\\obj\\",
       "projectStyle": "PackageReference",

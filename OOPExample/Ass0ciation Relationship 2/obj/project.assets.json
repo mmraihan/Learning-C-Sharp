@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Ass0ciation Relationship 2\\Ass0ciation Relationship 2.csproj",
-      "projectName": "Ass0ciation Relationship 2",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Ass0ciation Relationship 2\\Ass0ciation Relationship 2.csproj",
+      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Ass0ciation Relationship 2\\15-Ass0ciation Relationship 2.csproj",
+      "projectName": "15-Ass0ciation Relationship 2",
+      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Ass0ciation Relationship 2\\15-Ass0ciation Relationship 2.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Ass0ciation Relationship 2\\obj\\",
       "projectStyle": "PackageReference",

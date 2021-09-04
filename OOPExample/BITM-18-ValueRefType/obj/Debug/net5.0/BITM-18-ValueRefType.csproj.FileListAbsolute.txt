@@ -13,4 +13,3 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueR
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\ref\BITM-18-ValueRefType.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.genruntimeconfig.cache
-C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-18-ValueRefType\obj\Debug\net5.0\BITM-18-ValueRefType.csproj.AssemblyReference.cache

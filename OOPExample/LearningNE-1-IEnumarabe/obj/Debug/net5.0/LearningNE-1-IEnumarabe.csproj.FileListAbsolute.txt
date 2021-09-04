@@ -13,4 +13,3 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\LearningNE-1-I
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\LearningNE-1-IEnumarabe\obj\Debug\net5.0\ref\LearningNE-1-IEnumarabe.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\LearningNE-1-IEnumarabe\obj\Debug\net5.0\LearningNE-1-IEnumarabe.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\LearningNE-1-IEnumarabe\obj\Debug\net5.0\LearningNE-1-IEnumarabe.genruntimeconfig.cache
-C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\LearningNE-1-IEnumarabe\obj\Debug\net5.0\LearningNE-1-IEnumarabe.csproj.AssemblyReference.cache

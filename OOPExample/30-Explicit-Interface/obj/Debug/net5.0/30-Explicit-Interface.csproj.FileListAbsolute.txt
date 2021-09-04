@@ -13,4 +13,3 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-In
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\ref\30-Explicit-Interface.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.genruntimeconfig.cache
-C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\30-Explicit-Interface\obj\Debug\net5.0\30-Explicit-Interface.csproj.AssemblyReference.cache

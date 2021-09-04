@@ -28,14 +28,14 @@ namespace _0_ExtraPractise
             Item item2 = new Item() { Id = 12, Name = "Muba2" };
             Item item3 = new Item() { Id = 13, Name = "Muba3" };
             Item item4 = new Item() { Id = 14, Name = "Muba4" };
-           
+
 
             List<Item> itemList = new List<Item>();
-          
-          
-            itemList.Add(new Item() { Id = 1, Name="Raihan" });
-            itemList.Add(new Item() { Id = 2, Name="Raihan2" });
-            itemList.Add(new Item() { Id = 3, Name="Raihan3" });
+
+
+            itemList.Add(new Item() { Id = 1, Name = "Raihan" });
+            itemList.Add(new Item() { Id = 2, Name = "Raihan2" });
+            itemList.Add(new Item() { Id = 3, Name = "Raihan3" });
 
             itemList.Add(item1);
             itemList.Add(item2);
@@ -49,7 +49,25 @@ namespace _0_ExtraPractise
             }
 
 
-            
+            Console.WriteLine("--------------------------For Loop");
+
+            int[] numbers = new int[10];
+
+            for (
+                int i = 1; i < 10; i++)
+            {
+                numbers[i-1] = i;
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                int aNumber = numbers[i];
+                if (aNumber % 2==0)
+                {
+                    Console.WriteLine(aNumber);
+                }
+            }
+
 
             Console.ReadKey();
         }
@@ -59,5 +77,8 @@ namespace _0_ExtraPractise
     {
         public int Id { get; set; }
         public string Name { get; set; }
+
+
+       
     }
 }

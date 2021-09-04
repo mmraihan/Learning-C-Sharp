@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\ref\46-Generic.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\46-Generic\obj\Debug\net5.0\46-Generic.csproj.AssemblyReference.cache
