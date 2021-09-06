@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\ref\Class-14.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\bin\Debug\net5.0\Class-14.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\ref\Class-14.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14\obj\Debug\net5.0\Class-14.genruntimeconfig.cache

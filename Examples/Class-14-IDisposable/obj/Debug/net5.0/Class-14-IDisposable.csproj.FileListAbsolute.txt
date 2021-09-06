@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\ref\Class-14-IDisposable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\bin\Debug\net5.0\Class-14-IDisposable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\ref\Class-14-IDisposable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IDisposable\obj\Debug\net5.0\Class-14-IDisposable.genruntimeconfig.cache
