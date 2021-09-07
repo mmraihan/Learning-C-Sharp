@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\39-AnonymousTy
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\39-AnonymousType\obj\Debug\net5.0\ref\39-AnonymousType.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\39-AnonymousType\obj\Debug\net5.0\39-AnonymousType.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\39-AnonymousType\obj\Debug\net5.0\39-AnonymousType.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\39-AnonymousType\obj\Debug\net5.0\39-AnonymousType.csproj.AssemblyReference.cache

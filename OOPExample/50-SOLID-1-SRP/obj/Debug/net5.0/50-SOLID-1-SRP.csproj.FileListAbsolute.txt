@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\ref\50-SOLID-1-SRP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\bin\Debug\net5.0\50-SOLID-1-SRP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\ref\50-SOLID-1-SRP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\50-SOLID-1-SRP\obj\Debug\net5.0\50-SOLID-1-SRP.csproj.AssemblyReference.cache

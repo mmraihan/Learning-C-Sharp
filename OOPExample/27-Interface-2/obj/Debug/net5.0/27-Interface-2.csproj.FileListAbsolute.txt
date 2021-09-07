@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface-2
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface-2\obj\Debug\net5.0\ref\27-Interface-2.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface-2\obj\Debug\net5.0\27-Interface-2.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface-2\obj\Debug\net5.0\27-Interface-2.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\27-Interface-2\obj\Debug\net5.0\27-Interface-2.csproj.AssemblyReference.cache

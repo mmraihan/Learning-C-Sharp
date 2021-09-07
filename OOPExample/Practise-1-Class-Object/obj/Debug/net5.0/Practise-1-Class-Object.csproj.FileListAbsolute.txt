@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\ref\Practise-1-Class-Object.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\bin\Debug\net5.0\Practise-1-Class-Object.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\ref\Practise-1-Class-Object.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Practise-1-Class-Object\obj\Debug\net5.0\Practise-1-Class-Object.genruntimeconfig.cache
