@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\ref\53-SOLID-5-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\bin\Debug\net5.0\53-SOLID-5-DIP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\ref\53-SOLID-5-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\53-SOLID-5-DIP\obj\Debug\net5.0\53-SOLID-5-DIP.genruntimeconfig.cache
