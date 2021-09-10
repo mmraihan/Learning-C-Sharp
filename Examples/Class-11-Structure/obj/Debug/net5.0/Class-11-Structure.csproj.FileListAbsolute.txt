@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-11-Structu
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-11-Structure\obj\Debug\net5.0\ref\Class-11-Structure.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-11-Structure\obj\Debug\net5.0\Class-11-Structure.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-11-Structure\obj\Debug\net5.0\Class-11-Structure.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-11-Structure\obj\Debug\net5.0\Class-11-Structure.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\ref\Class-15-Solid-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\bin\Debug\net5.0\Class-15-Solid-DIP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\ref\Class-15-Solid-DIP.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-Solid-DIP\obj\Debug\net5.0\Class-15-Solid-DIP.genruntimeconfig.cache

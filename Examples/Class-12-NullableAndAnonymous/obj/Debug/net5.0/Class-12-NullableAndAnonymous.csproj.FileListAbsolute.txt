@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-Nullabl
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\ref\Class-12-NullableAndAnonymous.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-NullableAndAnonymous\obj\Debug\net5.0\Class-12-NullableAndAnonymous.csproj.AssemblyReference.cache

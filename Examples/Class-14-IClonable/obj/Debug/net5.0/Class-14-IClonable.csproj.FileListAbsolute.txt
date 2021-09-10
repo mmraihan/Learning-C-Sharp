@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\ref\Class-14-IClonable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\bin\Debug\net5.0\Class-14-IClonable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\ref\Class-14-IClonable.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-IClonable\obj\Debug\net5.0\Class-14-IClonable.genruntimeconfig.cache

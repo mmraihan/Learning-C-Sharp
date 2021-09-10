@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-StringB
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-StringBuilders\obj\Debug\net5.0\ref\Class-12-StringBuilders.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-StringBuilders\obj\Debug\net5.0\Class-12-StringBuilders.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-StringBuilders\obj\Debug\net5.0\Class-12-StringBuilders.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-StringBuilders\obj\Debug\net5.0\Class-12-StringBuilders.csproj.AssemblyReference.cache

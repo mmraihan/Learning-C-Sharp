@@ -30,7 +30,7 @@ namespace ForLoop
 
         public static int RemoveDuplicates(int[] nums)
         {
-
+            return 22;
         }
     }
 }

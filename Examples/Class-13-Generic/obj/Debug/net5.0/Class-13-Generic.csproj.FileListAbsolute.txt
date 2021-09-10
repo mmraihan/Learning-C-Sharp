@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-13-Generic
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-13-Generic\obj\Debug\net5.0\ref\Class-13-Generic.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-13-Generic\obj\Debug\net5.0\Class-13-Generic.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-13-Generic\obj\Debug\net5.0\Class-13-Generic.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-13-Generic\obj\Debug\net5.0\Class-13-Generic.csproj.AssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-OutInRe
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-OutInRef\obj\Debug\net5.0\ref\Class-12-OutInRef.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-OutInRef\obj\Debug\net5.0\Class-12-OutInRef.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-OutInRef\obj\Debug\net5.0\Class-12-OutInRef.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-OutInRef\obj\Debug\net5.0\Class-12-OutInRef.csproj.AssemblyReference.cache

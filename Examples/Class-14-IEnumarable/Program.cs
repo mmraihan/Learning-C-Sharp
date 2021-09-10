@@ -20,11 +20,6 @@ namespace Class_14_IEnumarable
             {
 
             }
-
-
-
-
-
      
 
         }

@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Collections\obj\
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Collections\obj\Debug\net5.0\ref\Collections.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Collections\obj\Debug\net5.0\Collections.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-Paramit
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\ref\Class-12-ParamiterModifier.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-ParamiterModifier\obj\Debug\net5.0\Class-12-ParamiterModifier.csproj.AssemblyReference.cache

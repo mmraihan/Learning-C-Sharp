@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Class_15_DI_2
+{
+    class CustomerBusinessLogic
+    {
+        ICustomerDataAccess _customerDataAccess;
+        public CustomerBusinessLogic()
+        {
+            _customerDataAccess = DataAccessFactory.GetCustomerDataAccessoObj();
+        }
+
+
+        public String GetUserName(int id)
+        {
+            return _customerDataAccess.GetCustomerName(id);
+        }
+    }
+}
