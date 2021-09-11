@@ -77,7 +77,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-14-Indexer", "Class-1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-15-Solid-DIP", "Class-15-Solid-DIP\Class-15-Solid-DIP.csproj", "{821ADED3-7750-4A24-8B2F-07EE97D8A108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-15-DI-2", "Class-15-DI-2\Class-15-DI-2.csproj", "{436ACD1A-744B-4319-B77F-30D75A3CC307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-15-DI-2", "Class-15-DI-2\Class-15-DI-2.csproj", "{436ACD1A-744B-4319-B77F-30D75A3CC307}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP-Break", "DIP-Break\DIP-Break.csproj", "{3777A2CE-3994-4499-9F09-BA2B6FA11841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP-Solution", "DIP-Solution\DIP-Solution.csproj", "{5E61B117-B3D7-429A-9BE6-575A8D0792EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +241,14 @@ Global
 		{436ACD1A-744B-4319-B77F-30D75A3CC307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{436ACD1A-744B-4319-B77F-30D75A3CC307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{436ACD1A-744B-4319-B77F-30D75A3CC307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3777A2CE-3994-4499-9F09-BA2B6FA11841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3777A2CE-3994-4499-9F09-BA2B6FA11841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3777A2CE-3994-4499-9F09-BA2B6FA11841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3777A2CE-3994-4499-9F09-BA2B6FA11841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

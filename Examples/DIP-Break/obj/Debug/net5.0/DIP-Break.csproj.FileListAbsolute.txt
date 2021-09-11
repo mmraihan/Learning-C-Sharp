@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\ref\DIP-Break.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\bin\Debug\net5.0\DIP-Break.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\ref\DIP-Break.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Break\obj\Debug\net5.0\DIP-Break.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIP-Break/1.0.0": {
+        "runtime": {
+          "DIP-Break.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIP-Break/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

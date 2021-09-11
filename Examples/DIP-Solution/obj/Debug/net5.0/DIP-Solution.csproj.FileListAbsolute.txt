@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\ref\DIP-Solution.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\bin\Debug\net5.0\DIP-Solution.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\ref\DIP-Solution.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.genruntimeconfig.cache
