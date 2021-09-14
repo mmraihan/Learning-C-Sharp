@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\ref\BITM-19-LamdaExpresion.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\bin\Debug\net5.0\BITM-19-LamdaExpresion.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\ref\BITM-19-LamdaExpresion.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.genruntimeconfig.cache
