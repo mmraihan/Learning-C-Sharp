@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTim
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\ref\Class-12-DateTime.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-12-DateTime\obj\Debug\net5.0\Class-12-DateTime.csproj.AssemblyReference.cache

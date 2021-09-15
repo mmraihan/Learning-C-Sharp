@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-Indexer
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-Indexer\obj\Debug\net5.0\ref\Class-14-Indexer.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-Indexer\obj\Debug\net5.0\Class-14-Indexer.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-Indexer\obj\Debug\net5.0\Class-14-Indexer.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-14-Indexer\obj\Debug\net5.0\Class-14-Indexer.csproj.AssemblyReference.cache

@@ -81,7 +81,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-15-DI-2", "Class-15-D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP-Break", "DIP-Break\DIP-Break.csproj", "{3777A2CE-3994-4499-9F09-BA2B6FA11841}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP-Solution", "DIP-Solution\DIP-Solution.csproj", "{5E61B117-B3D7-429A-9BE6-575A8D0792EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP-Solution", "DIP-Solution\DIP-Solution.csproj", "{5E61B117-B3D7-429A-9BE6-575A8D0792EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-16-ADONet", "Class-16-ADONet\Class-16-ADONet.csproj", "{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E61B117-B3D7-429A-9BE6-575A8D0792EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

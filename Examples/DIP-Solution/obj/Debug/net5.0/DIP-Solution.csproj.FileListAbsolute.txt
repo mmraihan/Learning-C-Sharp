@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\ref\DIP-Solution.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\DIP-Solution\obj\Debug\net5.0\DIP-Solution.csproj.AssemblyReference.cache

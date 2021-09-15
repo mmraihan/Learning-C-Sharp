@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-DI-2\ob
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-DI-2\obj\Debug\net5.0\ref\Class-15-DI-2.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-DI-2\obj\Debug\net5.0\Class-15-DI-2.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-DI-2\obj\Debug\net5.0\Class-15-DI-2.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-15-DI-2\obj\Debug\net5.0\Class-15-DI-2.csproj.AssemblyReference.cache
