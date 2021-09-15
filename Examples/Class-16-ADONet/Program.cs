@@ -8,7 +8,7 @@ namespace Class_16_ADONet
         static void Main(string[] args)
         {
             using SqlConnection connection = new SqlConnection();
-            connection.ConnectionString = "Server=.\\;Database=CSharpB8;Trusted_Connection=True";
+            connection.ConnectionString = "Server=.\\;Database=CSharpBarhch8;Trusted_Connection=True";
 
             if (connection.State != System.Data.ConnectionState.Open)
             {
