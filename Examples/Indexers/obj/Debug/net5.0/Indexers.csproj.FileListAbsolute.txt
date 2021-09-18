@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\ref\Indexers.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\bin\Debug\net5.0\Indexers.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\ref\Indexers.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Indexers\obj\Debug\net5.0\Indexers.genruntimeconfig.cache
