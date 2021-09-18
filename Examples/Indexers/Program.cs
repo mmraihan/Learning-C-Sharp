@@ -7,8 +7,9 @@ namespace Indexers
         static void Main(string[] args)
         {
             Depatment depatment = new Depatment();
-            //var result= depatment.GetEmployee(101);
-            //Console.WriteLine(result.EmpName);
+            //var result = depatment.GetEmployee("Muba");
+            //Console.WriteLine(result.Salary);
+           
 
             Console.WriteLine(depatment[102].EmpName);
             Console.WriteLine(depatment["Alex2"].Id);
