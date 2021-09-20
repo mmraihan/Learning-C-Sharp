@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,11 +8,11 @@ namespace ShoppingCart
 {
    public class CartItem
     {
-        public Product Item { get; private set; }
+        public IPurchasable Item { get; private set; }
         public uint Quantity { get; private set; }
 
 
-        public CartItem(Product item)
+        public CartItem(IPurchasable item)
         {
             Item = item;
             Quantity = 1;

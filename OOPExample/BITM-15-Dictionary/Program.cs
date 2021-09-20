@@ -13,10 +13,26 @@ namespace BITM_15_Dictionary
             myInfo.Add("Raihan3", 3);
             double myId = myInfo["Raihan"];
 
-            foreach (KeyValuePair <string, double> aPair in myInfo)
-            {
-                Console.WriteLine(aPair.Key+ " " +aPair.Value);
-            }
+
+            Console.WriteLine(myInfo.ContainsValue(4));
+
+            //foreach (var item in myInfo)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            //foreach (KeyValuePair <string, double> aPair in myInfo)
+            //{
+            //    Console.WriteLine(aPair.Key+ " " +aPair.Value);
+            //}
+
+            
+            // myInfo.TryGetValue("Raihan", out str);
+            //Console.WriteLine(str);
+
+
+
             
         }
     }

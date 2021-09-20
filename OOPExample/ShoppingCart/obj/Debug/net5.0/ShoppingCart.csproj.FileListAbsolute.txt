@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ref\ShoppingCart.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ref\ShoppingCart.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\ShoppingCart\obj\Debug\net5.0\ShoppingCart.genruntimeconfig.cache

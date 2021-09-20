@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaE
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\ref\BITM-19-LamdaExpresion.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\BITM-19-LamdaExpresion\obj\Debug\net5.0\BITM-19-LamdaExpresion.csproj.AssemblyReference.cache

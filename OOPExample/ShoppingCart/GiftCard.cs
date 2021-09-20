@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ShoppingCart
 {
-   public class Product :IPurchasable
+    public class GiftCard : IPurchasable
     {
-        public string Name { get; set; }
+        public string Name { get ; set ; }
         public double Price { get; set; }
-        public string Description { get; set; }
         public string ImageFileName { get; set; }
+        public string EmailAddress { get; set; }
     }
 }
