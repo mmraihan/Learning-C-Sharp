@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\ref\Class-18-Delegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\bin\Debug\net5.0\Class-18-Delegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\ref\Class-18-Delegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Delegates\obj\Debug\net5.0\Class-18-Delegates.genruntimeconfig.cache
