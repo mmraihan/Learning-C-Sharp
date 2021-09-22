@@ -35,7 +35,7 @@ namespace Class_18_Files
                  fs.Write(info, 0, info.Length);
                  fs.Flush();
              }
-            */
+            
 
             ////////////////Directory//////////////////
 
@@ -52,6 +52,22 @@ namespace Class_18_Files
             {
                 Directory.Delete("TestNewDicrect");
             }
+
+            */
+
+            ////////////////////////////////////Creting  Obeject///////////////////////////////////////////
+            ///
+            //FileInfo aFile = new FileInfo("TestFile/newFile.txt");
+            //aFile.MoveTo("TestFile/UpdatedFile.txt");
+
+
+            DirectoryInfo aDirectory = new DirectoryInfo("TestFile");
+            var files = aDirectory.GetFiles();
+            foreach (var item in files)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
