@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP-Solution", "DIP-Solutio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-16-ADONet", "Class-16-ADONet\Class-16-ADONet.csproj", "{D15CE9CF-1B98-4AEE-8C0F-920748016CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{8D0C399F-532D-4362-A882-BAB571015CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{8D0C399F-532D-4362-A882-BAB571015CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-18-Files", "Class-18-Files\Class-18-Files.csproj", "{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{8D0C399F-532D-4362-A882-BAB571015CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D0C399F-532D-4362-A882-BAB571015CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D0C399F-532D-4362-A882-BAB571015CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

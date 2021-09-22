@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\ref\Class-18-Files.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\bin\Debug\net5.0\Class-18-Files.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\ref\Class-18-Files.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-18-Files\obj\Debug\net5.0\Class-18-Files.csproj.AssemblyReference.cache
