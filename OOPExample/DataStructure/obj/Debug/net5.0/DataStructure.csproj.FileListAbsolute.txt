@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\DataStructure\obj\Debug\net5.0\DataStructure.genruntimeconfig.cache
