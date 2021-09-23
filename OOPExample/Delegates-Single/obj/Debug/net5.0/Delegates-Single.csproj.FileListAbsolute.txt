@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\ref\Delegates-Single.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\bin\Debug\net5.0\Delegates-Single.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\ref\Delegates-Single.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-Single\obj\Debug\net5.0\Delegates-Single.genruntimeconfig.cache

@@ -89,7 +89,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart", "ShoppingCar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BITM-19-LamdaExpresion", "BITM-19-LamdaExpresion\BITM-19-LamdaExpresion.csproj", "{7B8CE1E0-64E3-4A04-A65B-0D7EE9912551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{897D3A62-EC07-4B63-AFB3-0E258D604180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure", "DataStructure\DataStructure.csproj", "{897D3A62-EC07-4B63-AFB3-0E258D604180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates-Single", "Delegates-Single\Delegates-Single.csproj", "{5BB9A1FA-5DDD-42D4-97DD-D857CFE398B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{897D3A62-EC07-4B63-AFB3-0E258D604180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897D3A62-EC07-4B63-AFB3-0E258D604180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897D3A62-EC07-4B63-AFB3-0E258D604180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB9A1FA-5DDD-42D4-97DD-D857CFE398B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB9A1FA-5DDD-42D4-97DD-D857CFE398B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB9A1FA-5DDD-42D4-97DD-D857CFE398B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB9A1FA-5DDD-42D4-97DD-D857CFE398B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
