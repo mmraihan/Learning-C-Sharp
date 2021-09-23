@@ -12,7 +12,7 @@ namespace Class_18_Delegates
             method m = Formula;
             //int r = m(2, 2);
 
-            ApplyFormula(m, 2, 2);
+            ApplyFormula(m, 3, 2);
             
 
            
