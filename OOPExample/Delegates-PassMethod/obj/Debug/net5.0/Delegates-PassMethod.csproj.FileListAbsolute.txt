@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\ref\Delegates-PassMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\bin\Debug\net5.0\Delegates-PassMethod.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\ref\Delegates-PassMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegates-PassMethod\obj\Debug\net5.0\Delegates-PassMethod.genruntimeconfig.cache
