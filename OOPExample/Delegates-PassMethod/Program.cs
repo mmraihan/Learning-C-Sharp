@@ -9,6 +9,10 @@ namespace Delegates_PassMethod
 
         static void Main(string[] args)
         {
+            //1.Declare a delegate
+            // 2.Set a target method
+            //3.Invoke a delegate
+
             CalculatorHandler calculatorHandler = Add;
             InvokeDelegate(calculatorHandler, 5, 5);
 

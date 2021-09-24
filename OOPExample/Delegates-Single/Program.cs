@@ -9,6 +9,11 @@ namespace Delegates_Single
 
         static void Main(string[] args)
         {
+
+             //1.Declare a delegate
+             // 2.Set a target method
+             //3.Invoke a delegate
+
             //Invoke only one method
 
             Student student = new Student();
