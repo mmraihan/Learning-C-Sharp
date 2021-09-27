@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\ref\Delegate-AnonymousMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\bin\Debug\net5.0\Delegate-AnonymousMethod.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\ref\Delegate-AnonymousMethod.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-AnonymousMethod\obj\Debug\net5.0\Delegate-AnonymousMethod.csproj.AssemblyReference.cache
