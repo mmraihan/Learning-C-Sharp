@@ -16,7 +16,7 @@ namespace Delegate_FuncDelegate
             */
             #endregion
 
-            #region  With Anonymous Method 
+            #region  With Anonymous Method (Lambda expression)
 
             Func<int, int,int> CalculatorHandler2 = (int num1, int num2) => num1 + num2;
             int result=CalculatorHandler2(5, 5);
@@ -24,13 +24,10 @@ namespace Delegate_FuncDelegate
 
             #endregion
 
-             #region  Anonymous Method with only Return Type
+            #region  Anonymous Method with only Return Type
 
-            Func<int> Handler= ()=>2;
-            //CW ?????
-           
-            
-           
+            Func<int> Handler = () => 2;
+    
             #endregion
 
             Console.ReadKey();

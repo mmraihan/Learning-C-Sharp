@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\ref\Delegate-ActionDelegate.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\bin\Debug\net5.0\Delegate-ActionDelegate.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\ref\Delegate-ActionDelegate.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-ActionDelegate\obj\Debug\net5.0\Delegate-ActionDelegate.genruntimeconfig.cache
