@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\ref\Delegate-GenericDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\bin\Debug\net5.0\Delegate-GenericDelegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\ref\Delegate-GenericDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-GenericDelegates\obj\Debug\net5.0\Delegate-GenericDelegates.csproj.AssemblyReference.cache

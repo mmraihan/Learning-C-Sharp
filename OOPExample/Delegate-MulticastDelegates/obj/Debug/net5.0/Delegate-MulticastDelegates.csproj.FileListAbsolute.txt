@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-Multi
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\ref\Delegate-MulticastDelegates.dll
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.pdb
 C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.csproj.AssemblyReference.cache

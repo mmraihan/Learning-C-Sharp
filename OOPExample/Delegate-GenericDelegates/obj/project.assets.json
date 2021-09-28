@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\List\\List.csproj",
-      "projectName": "List",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\List\\List.csproj",
+      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Delegate-GenericDelegates\\Delegate-GenericDelegates.csproj",
+      "projectName": "Delegate-GenericDelegates",
+      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Delegate-GenericDelegates\\Delegate-GenericDelegates.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\List\\obj\\",
+      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\Delegate-GenericDelegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
