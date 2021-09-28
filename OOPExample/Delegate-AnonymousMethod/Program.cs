@@ -27,18 +27,16 @@ namespace Delegate_AnonymousMethod
 
             //--------Lamda Expression------------------
             CalculatorHandler calculatorHandler = (x, y) => x + y; 
+
             #endregion
 
 
-            var result = calculatorHandler(10, 2);
+          var result = calculatorHandler(10, 2);
           Console.WriteLine($"Result by Anonymous Method= {result}");
          
         }
 
-        static int Add (int firstNumber, int secondNumber)
-        {
-            return firstNumber + secondNumber;
-        }
+        
 
        
     }

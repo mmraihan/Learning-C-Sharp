@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\ref\Delegate-MulticastDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\bin\Debug\net5.0\Delegate-MulticastDelegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\ref\Delegate-MulticastDelegates.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Delegate-MulticastDelegates\obj\Debug\net5.0\Delegate-MulticastDelegates.genruntimeconfig.cache
