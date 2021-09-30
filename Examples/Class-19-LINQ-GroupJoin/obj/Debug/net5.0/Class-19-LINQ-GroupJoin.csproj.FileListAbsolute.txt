@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\ref\Class-19-LINQ-GroupJoin.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\bin\Debug\net5.0\Class-19-LINQ-GroupJoin.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\ref\Class-19-LINQ-GroupJoin.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\Examples\Class-19-LINQ-GroupJoin\obj\Debug\net5.0\Class-19-LINQ-GroupJoin.genruntimeconfig.cache

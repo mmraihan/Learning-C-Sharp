@@ -24,7 +24,8 @@ namespace Class_19_Events
 
             Console.ReadKey();
         }
-
+        
+        //------------------Event Handler---------------------------------
         private static void MMSSubscribe(string receipent, string message)
         {
             Console.WriteLine($"Sendin MMS to: {receipent}, Message: {message}");
