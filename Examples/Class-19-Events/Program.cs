@@ -7,6 +7,9 @@ namespace Class_19_Events
         delegate void Receive(string receipent, string message); //Step-1
         static event Receive Subscribe; //Step-2
 
+        //---------------------------------- Action Event--------------------
+        //static event Action<string, string> Subscribe;
+
         static void Main(string[] args)
         {
             Subscribe += SMSSubscriber ; //Step-3 Adding method on Event
