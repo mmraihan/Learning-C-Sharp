@@ -11,6 +11,8 @@ namespace Class_19_LINQ_GroupJoin
         public int Id { get; set; }
         public string Name { get; set; }
         public int CategoryId { get; set; }
+        //*167#
+
     }
 
 
