@@ -89,7 +89,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-18-Files", "Class-18-Files\Class-18-Files.csproj", "{BA77DD20-73DA-4D49-AC02-5B0156FC99C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-18-Delegates", "Class-18-Delegates\Class-18-Delegates.csproj", "{1FE9A992-C592-43E7-81A4-05F336C95DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-18-Delegates", "Class-18-Delegates\Class-18-Delegates.csproj", "{1FE9A992-C592-43E7-81A4-05F336C95DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-19-Events", "Class-19-Events\Class-19-Events.csproj", "{78568518-B5A4-453A-8D3E-37CEC36E52CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{1FE9A992-C592-43E7-81A4-05F336C95DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE9A992-C592-43E7-81A4-05F336C95DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE9A992-C592-43E7-81A4-05F336C95DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78568518-B5A4-453A-8D3E-37CEC36E52CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78568518-B5A4-453A-8D3E-37CEC36E52CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78568518-B5A4-453A-8D3E-37CEC36E52CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78568518-B5A4-453A-8D3E-37CEC36E52CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
