@@ -11,7 +11,7 @@ namespace _46_Generic
            var student2 = new Student<string>() { Name = "Raihan2", Success = "Passed" };
 
            var student3 = new Student<bool>() { Name = "Raihan3", Success = true };
-
+        
            Print(student);
            Print(student2);
            Print(student3);

@@ -7,8 +7,17 @@ namespace Delegates_Single
 
         public delegate int CalculatorHandler(int fNumber, int sNumber);
 
+        public delegate int UpomaDelegate(int num);
+
         static void Main(string[] args)
         {
+
+            UpomaDelegate upomaDelegate = sub;
+       
+            var result4 = upomaDelegate(2);
+            Console.WriteLine("Last "+result4);
+
+             // Console.WriteLine(result);
 
              //1.Declare a delegate
              // 2.Set a target method
@@ -16,7 +25,7 @@ namespace Delegates_Single
 
             //Invoke only one method
 
-            Student student = new Student();
+            //Student student = new Student();
 
             CalculatorHandler calculatorHandler = Add; //Point
             // int result= calculatorHandler.Invoke(10, 40); //Invoke
@@ -27,6 +36,12 @@ namespace Delegates_Single
         static int Add (int firstNumber, int secondNumber)
         {
             return firstNumber + secondNumber;
+        }
+
+
+        static int sub(int m)
+        {
+            return m;
         }
        
     }

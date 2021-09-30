@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.exe
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.deps.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\ref\Events.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\bin\Debug\net5.0\Events.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\ref\Events.dll
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.pdb
+C:\Development\Dev Skill\C# Practise\C-Sharp-Learning-\OOPExample\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache
