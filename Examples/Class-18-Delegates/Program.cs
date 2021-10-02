@@ -10,13 +10,10 @@ namespace Class_18_Delegates
             int x = 5;
             int y = 10;
             method m = Formula;
-            //int r = m(2, 2);
+            
+           //int r = m(2, 2);
 
             ApplyFormula(m, 3, 2);
-            
-
-           
-           
         }
 
         static void ApplyFormula(method m, int a, int b)

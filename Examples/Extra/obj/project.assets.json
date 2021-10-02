@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Extra\\Extra.csproj",
+      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Extra\\Extra.csproj",
       "projectName": "Extra",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Extra\\Extra.csproj",
+      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Extra\\Extra.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Extra\\obj\\",
+      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Extra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

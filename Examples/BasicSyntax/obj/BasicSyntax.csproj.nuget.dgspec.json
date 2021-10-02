@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\BasicSyntax\\BasicSyntax.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\BasicSyntax\\BasicSyntax.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\BasicSyntax\\BasicSyntax.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\BasicSyntax\\BasicSyntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\BasicSyntax\\BasicSyntax.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\BasicSyntax\\BasicSyntax.csproj",
         "projectName": "BasicSyntax",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\BasicSyntax\\BasicSyntax.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\BasicSyntax\\BasicSyntax.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\BasicSyntax\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\BasicSyntax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

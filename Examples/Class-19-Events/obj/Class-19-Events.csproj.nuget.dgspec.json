@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-19-Events\\Class-19-Events.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-19-Events\\Class-19-Events.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-19-Events\\Class-19-Events.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-19-Events\\Class-19-Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-19-Events\\Class-19-Events.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-19-Events\\Class-19-Events.csproj",
         "projectName": "Class-19-Events",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-19-Events\\Class-19-Events.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-19-Events\\Class-19-Events.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-19-Events\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-19-Events\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

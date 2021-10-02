@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj",
         "projectName": "Class-12-ParamiterModifier",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-ParamiterModifier\\Class-12-ParamiterModifier.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-ParamiterModifier\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-ParamiterModifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

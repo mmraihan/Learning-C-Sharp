@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-16-ADONet\\Class-16-ADONet.csproj",
+      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-16-ADONet\\Class-16-ADONet.csproj",
       "projectName": "Class-16-ADONet",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-16-ADONet\\Class-16-ADONet.csproj",
+      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-16-ADONet\\Class-16-ADONet.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-16-ADONet\\obj\\",
+      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-16-ADONet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

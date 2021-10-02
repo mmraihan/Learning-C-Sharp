@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj",
         "projectName": "Class-12-StringBuilders",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-StringBuilders\\Class-12-StringBuilders.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-12-StringBuilders\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-12-StringBuilders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

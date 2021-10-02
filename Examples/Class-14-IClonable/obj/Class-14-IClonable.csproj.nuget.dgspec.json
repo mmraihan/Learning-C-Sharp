@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj",
         "projectName": "Class-14-IClonable",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-14-IClonable\\Class-14-IClonable.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\Examples\\Class-14-IClonable\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\Examples\\Class-14-IClonable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
