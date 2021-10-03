@@ -7,23 +7,21 @@ namespace Class_18_Delegates
         delegate int method(int x, int y);
         static void Main(string[] args)
         {
-            int x = 5;
-            int y = 10;
+            int x = 2;
+            int y = 2;
             method m = Formula;
-            
-           //int r = m(2, 2);
-
-            ApplyFormula(m, 3, 2);
+            //int r = m(x, y);
+            ApplyFormula(m);
         }
 
-        static void ApplyFormula(method m, int a, int b)
+        static void ApplyFormula(method c)
         {
-            Console.WriteLine(m(a,b));
+            Console.WriteLine(c);
         }
 
         static int Formula(int a, int b)
         {
-            return a + 10 + b - 5;
+            return a +b;
         }
     }
 }

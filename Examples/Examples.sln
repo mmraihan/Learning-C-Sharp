@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-18-Delegates", "Class
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-19-Events", "Class-19-Events\Class-19-Events.csproj", "{78568518-B5A4-453A-8D3E-37CEC36E52CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-19-LINQ", "Class-19-LINQ\Class-19-LINQ.csproj", "{38A7C4F4-022C-49A2-A60A-CE7348B5E6BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-19-LINQ", "Class-19-LINQ\Class-19-LINQ.csproj", "{38A7C4F4-022C-49A2-A60A-CE7348B5E6BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-19-LINQ-GroupJoin", "Class-19-LINQ-GroupJoin\Class-19-LINQ-GroupJoin.csproj", "{C537493E-B07F-4CB5-A5B3-6F373FF9E5DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-19-LINQ-GroupJoin", "Class-19-LINQ-GroupJoin\Class-19-LINQ-GroupJoin.csproj", "{C537493E-B07F-4CB5-A5B3-6F373FF9E5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class-19-Func-ActionDelegates", "Class-19-Func-ActionDelegates\Class-19-Func-ActionDelegates.csproj", "{F550A708-6EC0-4B4B-98CC-E18035AF79C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{C537493E-B07F-4CB5-A5B3-6F373FF9E5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C537493E-B07F-4CB5-A5B3-6F373FF9E5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C537493E-B07F-4CB5-A5B3-6F373FF9E5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F550A708-6EC0-4B4B-98CC-E18035AF79C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F550A708-6EC0-4B4B-98CC-E18035AF79C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F550A708-6EC0-4B4B-98CC-E18035AF79C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F550A708-6EC0-4B4B-98CC-E18035AF79C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
