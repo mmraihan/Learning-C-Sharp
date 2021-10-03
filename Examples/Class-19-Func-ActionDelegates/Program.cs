@@ -20,6 +20,7 @@ namespace Class_19_Func_ActionDelegates
 
 
             #region Action
+
             Action<int, int> p = Formula2;
             ApplyFormula2(p, x, y);
 
@@ -48,7 +49,7 @@ namespace Class_19_Func_ActionDelegates
 
         static void ApplyFormula2(Action<int, int> r, int a, int b) ////////??????????????????
         {
-            //Console.WriteLine;
+            //Console.WriteLine; 
         }
 
         static void Formula2(int a, int b)
