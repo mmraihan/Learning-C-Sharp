@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\ref\Class-19-Expression.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\bin\Debug\net5.0\Class-19-Expression.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\ref\Class-19-Expression.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-19-Expression\obj\Debug\net5.0\Class-19-Expression.csproj.AssemblyReference.cache
