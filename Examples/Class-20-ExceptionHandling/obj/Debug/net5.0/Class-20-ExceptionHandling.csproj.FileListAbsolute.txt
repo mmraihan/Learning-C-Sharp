@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\ref\Class-20-ExceptionHandling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\bin\Debug\net5.0\Class-20-ExceptionHandling.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\ref\Class-20-ExceptionHandling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\Examples\Class-20-ExceptionHandling\obj\Debug\net5.0\Class-20-ExceptionHandling.genruntimeconfig.cache

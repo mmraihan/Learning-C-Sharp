@@ -19,7 +19,7 @@ namespace Class_19_LamdaMethod
            return a + b;
        }
        */
-        #endregion
+        #endregion 
 
         #region Lamda Method 
         public static int Sum(int a, int b) => a + b; // Single statement only
