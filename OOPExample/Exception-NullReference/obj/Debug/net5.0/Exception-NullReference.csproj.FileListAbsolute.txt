@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\ref\Exception-NullReference.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\bin\Debug\net5.0\Exception-NullReference.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\ref\Exception-NullReference.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-NullReference\obj\Debug\net5.0\Exception-NullReference.csproj.AssemblyReference.cache
