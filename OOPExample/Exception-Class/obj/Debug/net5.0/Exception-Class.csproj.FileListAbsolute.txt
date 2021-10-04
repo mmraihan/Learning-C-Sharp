@@ -13,3 +13,4 @@ C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class
 C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\ref\Exception-Class.dll
 C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.pdb
 C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.csproj.AssemblyReference.cache

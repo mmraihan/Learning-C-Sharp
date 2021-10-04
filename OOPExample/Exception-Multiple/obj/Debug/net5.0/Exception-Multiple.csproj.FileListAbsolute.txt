@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\ref\Exception-Multiple.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\bin\Debug\net5.0\Exception-Multiple.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.csproj.AssemblyReference.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\ref\Exception-Multiple.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Multiple\obj\Debug\net5.0\Exception-Multiple.genruntimeconfig.cache

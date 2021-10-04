@@ -11,10 +11,10 @@ namespace Exception_Class
                 //string a = null;
                 //Console.WriteLine(a.Length);
                 ///////////////////////---- 2------
-                //int[] arr = new int[2];
-                //arr[0] = 11;
-                //arr[1] = 18;
-                //arr[2] = 12;
+                int[] arr = new int[2];
+                arr[0] = 11;
+                arr[1] = 18;
+                arr[2] = 12;
 
 
             }
