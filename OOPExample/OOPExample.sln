@@ -113,11 +113,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethod", "Extensio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{57928F52-F905-4210-B897-89F1EDD097F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-Handling", "Exception-Handling\Exception-Handling.csproj", "{97060079-E172-458E-9EDD-A0B8571C149B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception-Handling", "Exception-Handling\Exception-Handling.csproj", "{97060079-E172-458E-9EDD-A0B8571C149B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-IndexOutOfRange", "Exception-IndexOutOfRange\Exception-IndexOutOfRange.csproj", "{074A9E40-7D04-4FBA-BD9F-D26663F8E0C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception-IndexOutOfRange", "Exception-IndexOutOfRange\Exception-IndexOutOfRange.csproj", "{074A9E40-7D04-4FBA-BD9F-D26663F8E0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-NullReference", "Exception-NullReference\Exception-NullReference.csproj", "{858BE816-B6CA-41BA-93CF-DA40AB206108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception-NullReference", "Exception-NullReference\Exception-NullReference.csproj", "{858BE816-B6CA-41BA-93CF-DA40AB206108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-Format", "Exception-Format\Exception-Format.csproj", "{26EF36CF-542C-42D1-8EA5-9A149001CEB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{858BE816-B6CA-41BA-93CF-DA40AB206108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{858BE816-B6CA-41BA-93CF-DA40AB206108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{858BE816-B6CA-41BA-93CF-DA40AB206108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
