@@ -121,6 +121,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception-NullReference", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-Format", "Exception-Format\Exception-Format.csproj", "{26EF36CF-542C-42D1-8EA5-9A149001CEB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception-Class", "Exception-Class\Exception-Class.csproj", "{E77616DF-FE5D-43C3-B301-1BF7F9E41A62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26EF36CF-542C-42D1-8EA5-9A149001CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77616DF-FE5D-43C3-B301-1BF7F9E41A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77616DF-FE5D-43C3-B301-1BF7F9E41A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77616DF-FE5D-43C3-B301-1BF7F9E41A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77616DF-FE5D-43C3-B301-1BF7F9E41A62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

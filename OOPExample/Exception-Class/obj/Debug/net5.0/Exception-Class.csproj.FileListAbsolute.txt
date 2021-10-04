@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\ref\Exception-Class.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\bin\Debug\net5.0\Exception-Class.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\ref\Exception-Class.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Class\obj\Debug\net5.0\Exception-Class.genruntimeconfig.cache
