@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\ref\Exception-IndexOutOfRange.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\bin\Debug\net5.0\Exception-IndexOutOfRange.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\ref\Exception-IndexOutOfRange.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-IndexOutOfRange\obj\Debug\net5.0\Exception-IndexOutOfRange.genruntimeconfig.cache

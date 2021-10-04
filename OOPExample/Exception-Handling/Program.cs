@@ -25,9 +25,7 @@ namespace Exception_Handling
                 Console.WriteLine(ex.Message);
             }
 
-              
-               
-
+ 
                 Console.WriteLine("Remaining statement 2");
                 Console.WriteLine("Remaining statement 3");
                 Console.ReadLine();   
