@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "76jyvZlhteD2jR5qWpMaukWoP4/HTRiB76cWaju74AIYFDpgu+n5Bkvl57DkFYPq2pZn48XprRuPrdLMC51cxw==",
+  "dgSpecHash": "bLpYm48a6hKzJr5JLnbjaq0kiwt7yRqb5KveE61KwHPVSX4/9cKUCgsoZafv5FlbN68hUEBwPTxYIkGpzzhxzw==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
+  "projectFilePath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

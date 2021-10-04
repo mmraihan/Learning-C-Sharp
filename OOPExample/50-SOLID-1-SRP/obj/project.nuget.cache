@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8eDOoYQhcYdtIQDLhWCXqugQAPeQFLWiy9KeH26ltiBPYlp5/SrbVxp2ydGY4qNztEWBFMFGE8k58wTQTzwtsA==",
+  "dgSpecHash": "rrZTFxaELGkDy+Ly0auZwaMYfSg2uo0govz0E8zdhIJJX/RQqhZnqRcmLWEA13xgVUrvhTDNW64zzyq+cew/6Q==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
+  "projectFilePath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

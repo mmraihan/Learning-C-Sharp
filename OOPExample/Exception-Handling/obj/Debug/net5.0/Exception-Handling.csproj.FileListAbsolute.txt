@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\ref\Exception-Handling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\bin\Debug\net5.0\Exception-Handling.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\ref\Exception-Handling.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-Handling\obj\Debug\net5.0\Exception-Handling.genruntimeconfig.cache

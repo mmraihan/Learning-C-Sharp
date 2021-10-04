@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj": {}
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj": {
+    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj",
+        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj",
         "projectName": "54-SOLID-5-DIP-Solution",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj",
+        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\54-SOLID-5-DIP-Solution\\54-SOLID-5-DIP-Solution.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\C-Sharp-Learning-\\OOPExample\\54-SOLID-5-DIP-Solution\\obj\\",
+        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\54-SOLID-5-DIP-Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
