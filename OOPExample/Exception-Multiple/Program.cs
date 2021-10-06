@@ -24,7 +24,7 @@ namespace Exception_Multiple
                 arr[2] = 12;
 
             }
-
+             
             catch (DivideByZeroException ex)
             {
                

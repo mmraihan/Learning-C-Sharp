@@ -1,0 +1,15 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\ref\Exception-WaysOfException.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\bin\Debug\net5.0\Exception-WaysOfException.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\ref\Exception-WaysOfException.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Exception-WaysOfException\obj\Debug\net5.0\Exception-WaysOfException.genruntimeconfig.cache
