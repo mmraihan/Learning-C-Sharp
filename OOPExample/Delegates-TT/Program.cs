@@ -67,6 +67,16 @@ namespace Delegates_TT
 
             #endregion
 
+
+            #region Topic-4 Func
+            Func<int, int, int> add2 = Sum2;
+
+            int result2=add2(4, 4);
+            Console.WriteLine("Func Delegate: " + result2);
+
+
+            #endregion
+
         }
 
         static void InvokeDelegate(MyDelegate del)
@@ -94,6 +104,16 @@ namespace Delegates_TT
         public static string Contact(string str1, string str2)
         {
             return str1 + str2;
+        }
+
+        #endregion
+
+
+        #region Func
+
+        static int Sum2 (int x, int y)
+        {
+            return x + y;
         }
 
         #endregion
