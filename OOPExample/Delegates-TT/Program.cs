@@ -65,7 +65,10 @@ namespace Delegates_TT
             var result=con("MM", "R");
             Console.WriteLine(result);
 
-            #endregion
+            #endregion]]
+
+           
+
 
 
             #region Topic-4 Func
