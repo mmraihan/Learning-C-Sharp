@@ -1,0 +1,16 @@
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.exe
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.deps.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.runtimeconfig.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.runtimeconfig.dev.json
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\ref\Delegates-TT.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\bin\Debug\net5.0\Delegates-TT.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.AssemblyInfoInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.AssemblyInfo.cs
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.csproj.CoreCompileInputs.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\ref\Delegates-TT.dll
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.pdb
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.genruntimeconfig.cache
+C:\Development\Dev Skill\C# Practise\Learning-C-Sharp\OOPExample\Delegates-TT\obj\Debug\net5.0\Delegates-TT.csproj.AssemblyReference.cache
