@@ -77,6 +77,16 @@ namespace Delegates_TT
 
             #endregion
 
+
+            #region Func With Lamda Expression
+
+            Func<int, int, int> Sum3 = (x, y) => x + y;
+
+            Console.WriteLine(Sum3(7, 7));
+
+            #endregion
+
+
         }
 
         static void InvokeDelegate(MyDelegate del)
