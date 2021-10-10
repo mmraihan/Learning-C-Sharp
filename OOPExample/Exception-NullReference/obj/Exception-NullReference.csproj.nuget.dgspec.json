@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj": {}
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj": {
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj",
+        "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj",
         "projectName": "Exception-NullReference",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj",
+        "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\Exception-NullReference.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\obj\\",
+        "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Exception-NullReference\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

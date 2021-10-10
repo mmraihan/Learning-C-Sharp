@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj": {}
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj": {
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj",
+        "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj",
         "projectName": "23-RunTimePolymorphism",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj",
+        "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\23-RunTimePolymorphism.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\obj\\",
+        "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\23-RunTimePolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

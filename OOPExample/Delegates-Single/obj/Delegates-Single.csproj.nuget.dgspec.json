@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj": {}
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj": {
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj",
+        "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj",
         "projectName": "Delegates-Single",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj",
+        "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\Delegates-Single.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\obj\\",
+        "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegates-Single\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

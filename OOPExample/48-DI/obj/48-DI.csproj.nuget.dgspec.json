@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj": {}
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj": {
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj",
+        "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj",
         "projectName": "48-DI",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj",
+        "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\48-DI.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\obj\\",
+        "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\48-DI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

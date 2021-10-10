@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
       "projectName": "49-DependencyInjection",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
+      "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\49-DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\obj\\",
+      "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\49-DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

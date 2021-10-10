@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\51-SOLID-2-OCP.csproj",
+      "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\51-SOLID-2-OCP.csproj",
       "projectName": "51-SOLID-2-OCP",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\51-SOLID-2-OCP.csproj",
+      "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\51-SOLID-2-OCP.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\obj\\",
+      "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\51-SOLID-2-OCP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

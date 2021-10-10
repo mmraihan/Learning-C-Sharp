@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\Delegate-AnonymousMethod.csproj",
+      "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\Delegate-AnonymousMethod.csproj",
       "projectName": "Delegate-AnonymousMethod",
-      "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\Delegate-AnonymousMethod.csproj",
+      "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\Delegate-AnonymousMethod.csproj",
       "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\obj\\",
+      "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\Delegate-AnonymousMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

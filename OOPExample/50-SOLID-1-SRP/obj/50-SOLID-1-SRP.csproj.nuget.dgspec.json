@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj": {}
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj": {
+    "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
+        "projectUniqueName": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
         "projectName": "50-SOLID-1-SRP",
-        "projectPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
+        "projectPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\50-SOLID-1-SRP.csproj",
         "packagesPath": "C:\\Users\\Raihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev Skill\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\obj\\",
+        "outputPath": "C:\\Development\\C#\\C# Practise\\Learning-C-Sharp\\OOPExample\\50-SOLID-1-SRP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

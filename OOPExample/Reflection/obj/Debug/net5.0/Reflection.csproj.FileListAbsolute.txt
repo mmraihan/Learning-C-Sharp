@@ -1,0 +1,16 @@
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.exe
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.deps.json
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.json
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.dll
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\ref\Reflection.dll
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\bin\Debug\net5.0\Reflection.pdb
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.csproj.AssemblyReference.cache
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.dll
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\ref\Reflection.dll
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.pdb
+C:\Development\C#\C# Practise\Learning-C-Sharp\OOPExample\Reflection\obj\Debug\net5.0\Reflection.genruntimeconfig.cache
